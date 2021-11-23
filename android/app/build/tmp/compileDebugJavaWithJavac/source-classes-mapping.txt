@@ -1,0 +1,14 @@
+com/doctorapp/BuildConfig.java
+ com.doctorapp.BuildConfig
+com/doctorapp/ReactNativeFlipper.java
+ com.doctorapp.ReactNativeFlipper
+ com.doctorapp.ReactNativeFlipper$1
+ com.doctorapp.ReactNativeFlipper$2
+ com.doctorapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/doctorapp/MainActivity.java
+ com.doctorapp.MainActivity
+com/doctorapp/MainApplication.java
+ com.doctorapp.MainApplication
+ com.doctorapp.MainApplication$1
